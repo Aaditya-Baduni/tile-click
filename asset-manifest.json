@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Games/tile-click/static/css/main.920a74b1.css",
-    "main.js": "/Games/tile-click/static/js/main.3bec78ec.js",
-    "static/js/787.f8e144c1.chunk.js": "/Games/tile-click/static/js/787.f8e144c1.chunk.js",
-    "index.html": "/Games/tile-click/index.html",
-    "main.920a74b1.css.map": "/Games/tile-click/static/css/main.920a74b1.css.map",
-    "main.3bec78ec.js.map": "/Games/tile-click/static/js/main.3bec78ec.js.map",
-    "787.f8e144c1.chunk.js.map": "/Games/tile-click/static/js/787.f8e144c1.chunk.js.map"
+    "main.css": "/tile-click/static/css/main.920a74b1.css",
+    "main.js": "/tile-click/static/js/main.f3e0af1a.js",
+    "static/js/787.f8e144c1.chunk.js": "/tile-click/static/js/787.f8e144c1.chunk.js",
+    "index.html": "/tile-click/index.html",
+    "main.920a74b1.css.map": "/tile-click/static/css/main.920a74b1.css.map",
+    "main.f3e0af1a.js.map": "/tile-click/static/js/main.f3e0af1a.js.map",
+    "787.f8e144c1.chunk.js.map": "/tile-click/static/js/787.f8e144c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.920a74b1.css",
-    "static/js/main.3bec78ec.js"
+    "static/js/main.f3e0af1a.js"
   ]
 }
